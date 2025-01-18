@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+}
+
+header img{
+    margin:7px;
+
+}
+h1{
+    background-color: lightblue;
+    text-align:center;
+    color:blue;
+    font-size:20px;
+    font-weight:normal;
+}
+footer{
+    background-color:lightblue;
+    padding:5px;
+}
+footer p{
+    background-color: white;
+    
+}
+select{
+    padding:5px;
+    background-color:white;
+    color:royalblue;
+    border-radius:10px;
+    font-size:15px;
+    border:3px solid navy;
+}
+
+select option{
+    color:white;
+    background-color: navy;
+}
+nav a{
+    margin:20px;
+    font-size:15px;
+    text-decoration:none;
+    color:white;
+    border:3px solid navy;
+    border-radius:10px;
+    background-color: navy;
+}
+.popular{
+    background-color: white;
+    color:royalblue;
+}
+.pepa{
+    border:3px solid navy;
+    border-radius:5px;
+}
+h2{
+    color:blue;
+}
+.pip{
+    text-decoration:none;
+    border:2px solid darkblue;
+    padding:5px;
+    color:black;
+}
+
